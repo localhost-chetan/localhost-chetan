@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tech Stack<br><br>- Frontend: React, Next.js, TypeScript, Tailwind CSS<br>- Backend: Bun.js, MongoDB, Prisma, Upstash Redis<br>- Auth: Clerk<br>- State Management: Zustand<br>- Additional: Python<br><br>Projects<br><br>- Realtime Video Calling Website<br>- Twitter Clone<br>- Currently building a SaaS App (Website Builder)<br><br>Passionate About<br><br>- Building scalable, real-time applications<br>- Crafting seamless user experiences<br>- Exploring cutting-edge technologies<br>
+<strong>Tech Stack</strong><br><br>- Frontend: React, Next.js, TypeScript, Tailwind CSS<br>- Backend: Bun.js, MongoDB, Prisma, Upstash Redis<br>- Auth: Clerk<br>- State Management: Zustand<br>- Additional: Python<br><br><strong>Projects</strong><br><br>- Realtime Video Calling Website<br>- Twitter Clone<br>- Currently building a SaaS App (Website Builder)<br><br><strong>Passionate About</strong><br><br>- Building scalable, real-time applications<br>- Crafting seamless user experiences<br>- Exploring cutting-edge technologies<br>
 
 
 ## 🌐 Socials:
