@@ -1,5 +1,5 @@
 # 💫 About Me:
-<strong>Tech Stack</strong><br><br>- Frontend: React, Next.js, Expo, TypeScript, Tailwind CSS<br>- Backend: Supabase(BaaS), Bun.js, Hono.js<br>- State Management: Zustand<br><br><strong>Projects</strong><br><br>- AI Sales Agent<br>- Twitter Clone<br>- Currently building a SaaS App (Website Builder)<br><br><strong>Passionate About</strong><br><br>- Building scalable, real-time applications<br>- Crafting seamless user experiences<br>- Exploring cutting-edge technologies<br>
+<strong>Tech Stack</strong><br><br>- Frontend: React, Next.js, Expo, TypeScript, Tailwind CSS, Zustand<br>- Backend: Supabase(BaaS), Bun.js, Hono.js<br><br><strong>Deployment</strong></br></br>- Linux, Docker</br></br><strong>Projects</strong><br><br>- AI Sales Agent<br>- Twitter Clone<br>- Currently building a SaaS App (Website Builder)<br><br><strong>Passionate About</strong><br><br>- Building scalable, real-time applications<br>- Crafting seamless user experiences<br>- Exploring cutting-edge technologies<br>
 
 
 ## 🌐 Socials:
