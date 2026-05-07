@@ -43,8 +43,7 @@ Based in India, working from home.
 
 ## Connect
 
-<a href="https://twitter.com/localhostChetan"><img src="https://skillicons.dev/icons?i=twitter" height="24" alt="X / Twitter" /></a> &nbsp;
-<a href="https://github.com/localhost-chetan"><img src="https://skillicons.dev/icons?i=github" height="24" alt="GitHub" /></a> &nbsp;
-<a href="mailto:chetanseervi513@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="24" alt="Email" /></a>
+<a href="https://twitter.com/localhostChetan"><img src="https://cdn.simpleicons.org/x/ffffff" height="24" alt="X" style="vertical-align:middle" /></a> &nbsp;
+<a href="mailto:chetanseervi513@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email" style="vertical-align:middle" /></a>
 
 > Open to collaborating on open source projects.
