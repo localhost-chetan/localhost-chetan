@@ -1,24 +1,50 @@
-# Hi 👋, I'm Chetan Seervi
+# Chetan Seervi
 
-### Developer
+Full-stack developer working primarily in the TypeScript/React ecosystem.<br/>
+Building MCP servers and AI-powered projects.<br/>
+Based in India, working from home.
 
-- 🔭 I'm currently working on **Godot Game Engine**
+---
 
-- 🌱 I'm currently learning **GdScript**
+## Stack
 
-- 👯 I'm looking to collaborate on **open source projects**
+**Frontend**
 
-- 💬 Ask me about **NextJS, Bun, Hono, Postgres, Podman, Drizzle**
+<img src="https://skillicons.dev/icons?i=ts" height="32" alt="TypeScript" title="TypeScript" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=react" height="32" alt="React" title="React" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="Next.js" title="Next.js" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="Tailwind CSS" title="Tailwind CSS" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=framermotion" height="32" alt="Framer Motion" title="Framer Motion" />
 
-- 📫 How to reach me **chetanseervi513@gmail.com**
+**Backend**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/localhost-chetan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="localhost-chetan" height="30" width="40" /></a>
-<a href="https://twitter.com/localhostChetan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="localhostChetan" height="30" width="40" /></a>
-<a href="https://leetcode.com/localhost-chetan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="localhost-chetan" height="30" width="40" /></a>
-</p>
+<img src="https://skillicons.dev/icons?i=bun" height="32" alt="Bun" title="Bun" /> &nbsp;
+<img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" height="32" alt="Hono" title="Hono" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" height="32" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=redis" height="32" alt="Redis" title="Redis" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+**Infra & Tooling**
 
+<img src="https://skillicons.dev/icons?i=linux" height="32" alt="Linux" title="Linux" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="32" alt="Git" title="Git" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=docker" height="32" alt="Podman" title="Podman" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=postman" height="32" alt="Postman" title="Postman" />
+
+**AI & Automation**
+
+<img src="https://img.shields.io/badge/MCP-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="32" alt="Claude / MCP" title="Claude / MCP" /> &nbsp;
+<img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="32" alt="n8n" title="n8n" />
+
+**Currently Exploring**
+
+<img src="https://skillicons.dev/icons?i=godot" height="32" alt="Godot" title="Godot" />
+
+---
+
+## Connect
+
+<a href="https://twitter.com/localhostChetan"><img src="https://skillicons.dev/icons?i=twitter" height="24" alt="X / Twitter" /></a> &nbsp;
+<a href="https://github.com/localhost-chetan"><img src="https://skillicons.dev/icons?i=github" height="24" alt="GitHub" /></a> &nbsp;
+<a href="mailto:chetanseervi513@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="24" alt="Email" /></a>
+
+> Open to collaborating on open source projects.
