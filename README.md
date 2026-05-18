@@ -27,6 +27,7 @@ Based in India, working from home.
 
 <img src="https://skillicons.dev/icons?i=linux" height="32" alt="Linux" title="Linux" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=git" height="32" alt="Git" title="Git" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=aws" height="32" alt="AWS" title="AWS" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=docker" height="32" alt="Podman" title="Podman" /> &nbsp;
 <img src="https://skillicons.dev/icons?i=postman" height="32" alt="Postman" title="Postman" />
 
